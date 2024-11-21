@@ -2,4 +2,4 @@
 
 <p align="left">📚 Studying Information Systems Engineering at the <a href="https://www.frba.utn.edu.ar/sistemas/plan-de-estudios-2023/">National Technological University</a>.</p>
 
-<p align="left">💼 Working as a System Engineer at <a href="https://netrixglobal.com/">Netrix Global</a>.</p>
+<p align="left">💼 Working as a Software Engineer at <a href="https://lambdaclass.com/">LambdaClass</a>.</p>
